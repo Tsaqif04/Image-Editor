@@ -1,3 +1,4 @@
+# final project
 import os
 from PyQt5.QtWidgets import (
    QApplication, QWidget,
